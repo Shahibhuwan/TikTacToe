@@ -1,0 +1,10 @@
+F:\TikTacToe using C# window form\TiktactoeGame\TiktactoeGame\bin\Debug\TiktactoeGame.exe.config
+F:\TikTacToe using C# window form\TiktactoeGame\TiktactoeGame\bin\Debug\TiktactoeGame.exe
+F:\TikTacToe using C# window form\TiktactoeGame\TiktactoeGame\bin\Debug\TiktactoeGame.pdb
+F:\TikTacToe using C# window form\TiktactoeGame\TiktactoeGame\obj\Debug\TiktactoeGame.csprojAssemblyReference.cache
+F:\TikTacToe using C# window form\TiktactoeGame\TiktactoeGame\obj\Debug\TiktactoeGame.Properties.Resources.resources
+F:\TikTacToe using C# window form\TiktactoeGame\TiktactoeGame\obj\Debug\TiktactoeGame.csproj.GenerateResource.cache
+F:\TikTacToe using C# window form\TiktactoeGame\TiktactoeGame\obj\Debug\TiktactoeGame.csproj.CoreCompileInputs.cache
+F:\TikTacToe using C# window form\TiktactoeGame\TiktactoeGame\obj\Debug\TiktactoeGame.exe
+F:\TikTacToe using C# window form\TiktactoeGame\TiktactoeGame\obj\Debug\TiktactoeGame.pdb
+F:\TikTacToe using C# window form\TiktactoeGame\TiktactoeGame\obj\Debug\TiktactoeGame.Form1.resources
